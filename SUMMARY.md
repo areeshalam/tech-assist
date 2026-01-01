@@ -5,14 +5,8 @@ Links point to the original context or detailed record.
 
 ---
 
-**Date:** YYYY-MM-DD  
-**Platform:** GitHub | Stack Overflow | Discord | Other  
-**Topic:** Short problem description  
-**Link:** https://...
-
----
-
-**Date:** YYYY-MM-DD  
-**Platform:** GitHub | Stack Overflow | Discord | Other  
-**Topic:** Short problem description  
-**Link:** https://...
+Date: 01-01-2026
+Platform: GitHub
+Issue: #182579
+Link: https://github.com/orgs/community/discussions/182579#discussion-9277011
+Topic: Designing beautiful landing page - Tips & Tricks
