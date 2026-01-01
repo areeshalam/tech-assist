@@ -99,9 +99,8 @@ For a high-level overview of activity across all platforms, see:
 
 ## Closing Note
 
-Engineering progress isn’t only measured by code written for yourself.
-
-Helping others debug, understand, and move forward is part of real engineering work.
-
-This repository exists to make that work visible, honest, and permanent.
+```
+- Engineering progress isn’t only measured by code written for yourself.
+- Helping others debug, understand, and move forward is part of real engineering work.
+- This repository exists to make that work visible, honest, and permanent.
 ```
