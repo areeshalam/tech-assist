@@ -89,14 +89,6 @@ It is designed to scale quietly over years without becoming a maintenance burden
 
 ---
 
-## Summary View
-
-For a high-level overview of activity across all platforms, see:
-
-👉 **[SUMMARY.md](./SUMMARY.md)**
-
----
-
 ## Closing Note
 
 ```
